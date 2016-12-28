@@ -1,3 +1,6 @@
 [submodule "workshops/dl-workshop-by-chengdu"]
 	path = workshops/dl-workshop-by-chengdu
 	url = git@github.com:gmlove/dl-workshop.git
+[submodule "tools/tensorflow-py3-docker"]
+	path = tools/tensorflow-py3-docker
+	url = https://github.com/gmlove/ml-tools.git
